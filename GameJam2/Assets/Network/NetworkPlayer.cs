@@ -3,15 +3,19 @@ using System.Collections;
 
 public class NetworkPlayer : Photon.MonoBehaviour
 {
+    public TextMesh MyText;
+
     //public GameObject MyCamera;
     private bool isAlive = true;
     Vector3 networkposition;
     Quaternion networkrotation;
-    float lerpSmoothing = 5.0f;
+    float lerpSmoothing = 10.0f;
     bool bSelected = false;
     bool bMoving = false;
     Vector3 GoalPos;
     bool bIsMine = false;
+
+    private int HP = 10;
 
     // Use this for initialization
     void Start ()
@@ -20,7 +24,8 @@ public class NetworkPlayer : Photon.MonoBehaviour
         {
             bIsMine = true;
             GetComponent<PhotonView>().RPC("ChangeMaterial", PhotonTargets.AllBufferedViaServer, (int)PhotonNetwork.player.customProperties["Team"]);
-           // MyCamera.SetActive(true);
+            GetComponent<PhotonView>().RPC("SetHP", PhotonTargets.AllBufferedViaServer, HP);
+            // MyCamera.SetActive(true);
             //Turn on gravity use in rigidbodies, for example
         }
         else
@@ -49,7 +54,15 @@ public class NetworkPlayer : Photon.MonoBehaviour
     {
         while (isAlive)
         {
-            transform.position = Vector3.Lerp(transform.position, networkposition, Time.deltaTime * lerpSmoothing);
+            float SqDist = Vector3.SqrMagnitude(networkposition - transform.position);
+            if ( SqDist > 200.0f)
+            {
+                transform.position = networkposition;
+            }
+            else
+            {
+                transform.position = Vector3.Lerp(transform.position, networkposition, Time.deltaTime * lerpSmoothing);
+            }
             transform.rotation = Quaternion.Lerp(transform.rotation, networkrotation, Time.deltaTime * lerpSmoothing);
 
             yield return null;
@@ -71,10 +84,41 @@ public class NetworkPlayer : Photon.MonoBehaviour
         }
     }
 
-    void Update()
+    [PunRPC]
+    public void SetHP(int _HP)
+    {
+        HP = _HP;
+        MyText.text = HP.ToString();
+    }
+
+    [PunRPC]
+    public void DecreaseHP()
+    {
+        HP--;
+        MyText.text = HP.ToString();
+    }
+
+        void Update()
     {
         if (!bIsMine)
+        {
+            if (Input.GetButtonDown("Fire1"))
+            {
+                RaycastHit hit;
+                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                if (Physics.Raycast(ray, out hit))
+                {
+                    if (hit.transform == transform)
+                    {
+                        GetComponent<PhotonView>().RPC("DecreaseHP", PhotonTargets.AllBufferedViaServer);
+                    }
+                    else if (bSelected)
+                    {
+                    }
+                }
+            }
             return;
+        }
 
         if(bMoving)
         {

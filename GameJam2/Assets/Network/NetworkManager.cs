@@ -17,7 +17,6 @@ public class NetworkManager : MonoBehaviour
 
     void OnJoinedLobby()
     {
-        RoomOptions roomOptions = new RoomOptions() { isVisible = false, maxPlayers = 2 };
         //PhotonNetwork.JoinOrCreateRoom(RoomName, roomOptions, TypedLobby.Default);
         PhotonNetwork.JoinRandomRoom();
     }
@@ -40,6 +39,7 @@ public class NetworkManager : MonoBehaviour
 
     void OnPhotonRandomJoinFailed()
     {
+        //RoomOptions roomOptions = new RoomOptions() { isVisible = false, maxPlayers = 2 };
         PhotonNetwork.CreateRoom(null);
     }
 }
