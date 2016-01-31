@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 9176f2a73cd78934882f89dfcffb20eb
+timeCreated: 1454216803
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antenna
+    100002: AntennaDot
+    100004: Dish
+    100006: FootA1
+    100008: FootA2
+    100010: FootA3
+    100012: FootA4
+    100014: //RootNode
+    100016: LeftWindow
+    100018: LegA
+    100020: LegDishConnector
+    100022: RightWindow
+    100024: Satalite
+    100026: ScoutBody
+    100028: ScoutBody 1
+    100030: ScoutWheelBL
+    100032: ScoutWheelBR
+    100034: ScoutWheelFL
+    100036: ScoutWheelFR
+    100038: ScoutWheels
+    100040: transform2
+    100042: transform2 1
+    100044: transform2 2
+    100046: WheelFaces
+    100048: WheelFaces 1
+    100050: WheelFaces 2
+    100052: WheelFaces 3
+    100054: wheelInside
+    100056: wheelInside 1
+    100058: wheelInside 2
+    100060: wheelInside 3
+    400000: Antenna
+    400002: AntennaDot
+    400004: Dish
+    400006: FootA1
+    400008: FootA2
+    400010: FootA3
+    400012: FootA4
+    400014: //RootNode
+    400016: LeftWindow
+    400018: LegA
+    400020: LegDishConnector
+    400022: RightWindow
+    400024: Satalite
+    400026: ScoutBody
+    400028: ScoutBody 1
+    400030: ScoutWheelBL
+    400032: ScoutWheelBR
+    400034: ScoutWheelFL
+    400036: ScoutWheelFR
+    400038: ScoutWheels
+    400040: transform2
+    400042: transform2 1
+    400044: transform2 2
+    400046: WheelFaces
+    400048: WheelFaces 1
+    400050: WheelFaces 2
+    400052: WheelFaces 3
+    400054: wheelInside
+    400056: wheelInside 1
+    400058: wheelInside 2
+    400060: wheelInside 3
+    2300000: Antenna
+    2300002: AntennaDot
+    2300004: Dish
+    2300006: FootA1
+    2300008: FootA2
+    2300010: FootA3
+    2300012: FootA4
+    2300014: LeftWindow
+    2300016: LegA
+    2300018: LegDishConnector
+    2300020: RightWindow
+    2300022: ScoutBody 1
+    2300024: WheelFaces
+    2300026: WheelFaces 1
+    2300028: WheelFaces 2
+    2300030: WheelFaces 3
+    2300032: wheelInside
+    2300034: wheelInside 1
+    2300036: wheelInside 2
+    2300038: wheelInside 3
+    3300000: Antenna
+    3300002: AntennaDot
+    3300004: Dish
+    3300006: FootA1
+    3300008: FootA2
+    3300010: FootA3
+    3300012: FootA4
+    3300014: LeftWindow
+    3300016: LegA
+    3300018: LegDishConnector
+    3300020: RightWindow
+    3300022: ScoutBody 1
+    3300024: WheelFaces
+    3300026: WheelFaces 1
+    3300028: WheelFaces 2
+    3300030: WheelFaces 3
+    3300032: wheelInside
+    3300034: wheelInside 1
+    3300036: wheelInside 2
+    3300038: wheelInside 3
+    4300000: wheelInside
+    4300002: WheelFaces
+    4300004: wheelInside
+    4300006: WheelFaces
+    4300008: wheelInside
+    4300010: WheelFaces
+    4300012: wheelInside
+    4300014: WheelFaces
+    4300016: ScoutBody
+    4300018: RightWindow
+    4300020: LeftWindow
+    4300022: LegDishConnector
+    4300024: Dish
+    4300026: Antenna
+    4300028: AntennaDot
+    4300030: LegA
+    4300032: FootA1
+    4300034: FootA2
+    4300036: FootA3
+    4300038: FootA4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

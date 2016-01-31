@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 8a8ece1671f2f7e4193b0c39110cf857
+timeCreated: 1454216796
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackLeftFoot
+    100004: BackLeftLeg
+    100006: BackLegConnection
+    100008: BackRightFoot
+    100010: BackRightLeg1
+    100012: Body
+    100014: Body 1
+    100016: Eye
+    100018: FrontFoot
+    100020: FrontLegConnector
+    100022: FrontLLeg
+    100024: FrontRFoot
+    100026: FrontRLeg
+    100028: GlassScreen
+    100030: RestOfEye
+    100032: Scanner
+    400000: //RootNode
+    400002: BackLeftFoot
+    400004: BackLeftLeg
+    400006: BackLegConnection
+    400008: BackRightFoot
+    400010: BackRightLeg1
+    400012: Body
+    400014: Body 1
+    400016: Eye
+    400018: FrontFoot
+    400020: FrontLegConnector
+    400022: FrontLLeg
+    400024: FrontRFoot
+    400026: FrontRLeg
+    400028: GlassScreen
+    400030: RestOfEye
+    400032: Scanner
+    2300000: BackLeftFoot
+    2300002: BackLeftLeg
+    2300004: BackLegConnection
+    2300006: BackRightFoot
+    2300008: BackRightLeg1
+    2300010: Body 1
+    2300012: FrontFoot
+    2300014: FrontLegConnector
+    2300016: FrontLLeg
+    2300018: FrontRFoot
+    2300020: FrontRLeg
+    2300022: GlassScreen
+    2300024: RestOfEye
+    2300026: Scanner
+    3300000: BackLeftFoot
+    3300002: BackLeftLeg
+    3300004: BackLegConnection
+    3300006: BackRightFoot
+    3300008: BackRightLeg1
+    3300010: Body 1
+    3300012: FrontFoot
+    3300014: FrontLegConnector
+    3300016: FrontLLeg
+    3300018: FrontRFoot
+    3300020: FrontRLeg
+    3300022: GlassScreen
+    3300024: RestOfEye
+    3300026: Scanner
+    4300000: GlassScreen
+    4300002: Body
+    4300004: BackLegConnection
+    4300006: BackRightLeg1
+    4300008: BackRightFoot
+    4300010: BackLeftLeg
+    4300012: BackLeftFoot
+    4300014: FrontLegConnector
+    4300016: FrontRLeg
+    4300018: FrontRFoot
+    4300020: FrontLLeg
+    4300022: FrontFoot
+    4300024: Scanner
+    4300026: RestOfEye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

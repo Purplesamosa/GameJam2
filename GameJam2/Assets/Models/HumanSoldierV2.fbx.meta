@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 04c144359aa08be4a9cfbb21083b2861
+timeCreated: 1454216791
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AboveNeck
+    100002: Barrel
+    100004: BottomOfLeg
+    100006: BottomOfLeg 1
+    100008: Face
+    100010: Head
+    100012: Helmet
+    100014: HumanSoldier
+    100016: HumanSoldierGun
+    100018: //RootNode
+    100020: LeftBicep
+    100022: LeftForeArm
+    100024: LeftLeg
+    100026: LeftShoulder
+    100028: Legs
+    100030: MetalPieces
+    100032: Neck
+    100034: RightBicep
+    100036: RightForeArm
+    100038: RightLeg
+    100040: RightShoulder
+    100042: TopOfLeg1
+    100044: TopOfLeg2
+    100046: Torso
+    400000: AboveNeck
+    400002: Barrel
+    400004: BottomOfLeg
+    400006: BottomOfLeg 1
+    400008: Face
+    400010: Head
+    400012: Helmet
+    400014: HumanSoldier
+    400016: HumanSoldierGun
+    400018: //RootNode
+    400020: LeftBicep
+    400022: LeftForeArm
+    400024: LeftLeg
+    400026: LeftShoulder
+    400028: Legs
+    400030: MetalPieces
+    400032: Neck
+    400034: RightBicep
+    400036: RightForeArm
+    400038: RightLeg
+    400040: RightShoulder
+    400042: TopOfLeg1
+    400044: TopOfLeg2
+    400046: Torso
+    2300000: Barrel
+    2300002: BottomOfLeg
+    2300004: BottomOfLeg 1
+    2300006: Face
+    2300008: Helmet
+    2300010: LeftBicep
+    2300012: LeftForeArm
+    2300014: LeftShoulder
+    2300016: MetalPieces
+    2300018: Neck
+    2300020: RightBicep
+    2300022: RightForeArm
+    2300024: RightShoulder
+    2300026: TopOfLeg1
+    2300028: TopOfLeg2
+    2300030: Torso
+    3300000: Barrel
+    3300002: BottomOfLeg
+    3300004: BottomOfLeg 1
+    3300006: Face
+    3300008: Helmet
+    3300010: LeftBicep
+    3300012: LeftForeArm
+    3300014: LeftShoulder
+    3300016: MetalPieces
+    3300018: Neck
+    3300020: RightBicep
+    3300022: RightForeArm
+    3300024: RightShoulder
+    3300026: TopOfLeg1
+    3300028: TopOfLeg2
+    3300030: Torso
+    4300000: TopOfLeg2
+    4300002: BottomOfLeg
+    4300004: TopOfLeg1
+    4300006: BottomOfLeg
+    4300008: Neck
+    4300010: Face
+    4300012: Helmet
+    4300014: Torso
+    4300016: RightShoulder
+    4300018: RightBicep
+    4300020: RightForeArm
+    4300022: LeftShoulder
+    4300024: LeftBicep
+    4300026: LeftForeArm
+    4300028: Barrel
+    4300030: MetalPieces
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

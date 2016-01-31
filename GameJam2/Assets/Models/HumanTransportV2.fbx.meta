@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 67db4fc54cfdf51478a9819dd7a02bd4
+timeCreated: 1454216792
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blade1
+    100002: blade1 1
+    100004: blade2
+    100006: blade2 1
+    100008: blade3
+    100010: blade3 1
+    100012: blade4
+    100014: blade4 1
+    100016: BLeftLeg
+    100018: BRightLeg
+    100020: BSpinLeg
+    100022: FLeftLeg
+    100024: FRightLeg
+    100026: FSpinLeg
+    100028: Hatch
+    100030: Hatch1
+    100032: HatchBackground
+    100034: //RootNode
+    100036: RestOfBody
+    100038: TranporterBody
+    100040: TransporterWindow
+    100042: wheel
+    100044: wheel 1
+    100046: wheel 2
+    100048: wheel 3
+    100050: Wheels
+    400000: blade1
+    400002: blade1 1
+    400004: blade2
+    400006: blade2 1
+    400008: blade3
+    400010: blade3 1
+    400012: blade4
+    400014: blade4 1
+    400016: BLeftLeg
+    400018: BRightLeg
+    400020: BSpinLeg
+    400022: FLeftLeg
+    400024: FRightLeg
+    400026: FSpinLeg
+    400028: Hatch
+    400030: Hatch1
+    400032: HatchBackground
+    400034: //RootNode
+    400036: RestOfBody
+    400038: TranporterBody
+    400040: TransporterWindow
+    400042: wheel
+    400044: wheel 1
+    400046: wheel 2
+    400048: wheel 3
+    400050: Wheels
+    2300000: blade1
+    2300002: blade1 1
+    2300004: blade2
+    2300006: blade2 1
+    2300008: blade3
+    2300010: blade3 1
+    2300012: blade4
+    2300014: blade4 1
+    2300016: BLeftLeg
+    2300018: BRightLeg
+    2300020: BSpinLeg
+    2300022: FLeftLeg
+    2300024: FRightLeg
+    2300026: FSpinLeg
+    2300028: Hatch
+    2300030: Hatch1
+    2300032: HatchBackground
+    2300034: RestOfBody
+    2300036: TransporterWindow
+    2300038: wheel
+    2300040: wheel 1
+    2300042: wheel 2
+    2300044: wheel 3
+    3300000: blade1
+    3300002: blade1 1
+    3300004: blade2
+    3300006: blade2 1
+    3300008: blade3
+    3300010: blade3 1
+    3300012: blade4
+    3300014: blade4 1
+    3300016: BLeftLeg
+    3300018: BRightLeg
+    3300020: BSpinLeg
+    3300022: FLeftLeg
+    3300024: FRightLeg
+    3300026: FSpinLeg
+    3300028: Hatch
+    3300030: Hatch1
+    3300032: HatchBackground
+    3300034: RestOfBody
+    3300036: TransporterWindow
+    3300038: wheel
+    3300040: wheel 1
+    3300042: wheel 2
+    3300044: wheel 3
+    4300000: Hatch
+    4300002: Hatch1
+    4300004: TransporterWindow
+    4300006: RestOfBody
+    4300008: HatchBackground
+    4300010: FRightLeg
+    4300012: wheel
+    4300014: FLeftLeg
+    4300016: wheel
+    4300018: BRightLeg
+    4300020: wheel
+    4300022: BLeftLeg
+    4300024: wheel
+    4300026: FSpinLeg
+    4300028: blade1
+    4300030: blade2
+    4300032: blade3
+    4300034: blade4
+    4300036: BSpinLeg
+    4300038: blade1
+    4300040: blade2
+    4300042: blade3
+    4300044: blade4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

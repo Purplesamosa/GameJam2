@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 843f956a9b61356408939776f84e5c0c
+timeCreated: 1454216796
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Missle1
+    100004: Missle2
+    100006: Missle3
+    100008: Missle4
+    100010: Missles
+    100012: PlaneBeak
+    100014: PlaneBody
+    100016: PlaneBody 1
+    100018: PlaneEngine
+    100020: RocketBody
+    100022: RocketBody 1
+    100024: RocketBody 2
+    100026: RocketBody 3
+    100028: RocketHead
+    100030: RocketHead 1
+    100032: RocketHead 2
+    100034: RocketHead 3
+    400000: //RootNode
+    400002: Missle1
+    400004: Missle2
+    400006: Missle3
+    400008: Missle4
+    400010: Missles
+    400012: PlaneBeak
+    400014: PlaneBody
+    400016: PlaneBody 1
+    400018: PlaneEngine
+    400020: RocketBody
+    400022: RocketBody 1
+    400024: RocketBody 2
+    400026: RocketBody 3
+    400028: RocketHead
+    400030: RocketHead 1
+    400032: RocketHead 2
+    400034: RocketHead 3
+    2300000: PlaneBeak
+    2300002: PlaneBody 1
+    2300004: PlaneEngine
+    2300006: RocketBody
+    2300008: RocketBody 1
+    2300010: RocketBody 2
+    2300012: RocketBody 3
+    2300014: RocketHead
+    2300016: RocketHead 1
+    2300018: RocketHead 2
+    2300020: RocketHead 3
+    3300000: PlaneBeak
+    3300002: PlaneBody 1
+    3300004: PlaneEngine
+    3300006: RocketBody
+    3300008: RocketBody 1
+    3300010: RocketBody 2
+    3300012: RocketBody 3
+    3300014: RocketHead
+    3300016: RocketHead 1
+    3300018: RocketHead 2
+    3300020: RocketHead 3
+    4300000: PlaneBody
+    4300002: PlaneEngine
+    4300004: PlaneBeak
+    4300006: RocketBody
+    4300008: RocketHead
+    4300010: RocketBody
+    4300012: RocketHead
+    4300014: RocketBody
+    4300016: RocketHead
+    4300018: RocketBody
+    4300020: RocketHead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

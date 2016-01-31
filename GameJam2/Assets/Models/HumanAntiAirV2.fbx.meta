@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 9f89d5541154e4a4faf33ea2dfdec605
+timeCreated: 1454216804
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aabody
+    100002: aaMissleLauncher
+    100004: antiAirBody
+    100006: firingCasing
+    100008: firingHoles
+    100010: glassPane
+    100012: //RootNode
+    100014: launchercase
+    100016: launcherConnector1
+    100018: launcherConnector5
+    100020: launcherConnector6
+    100022: launcherConnector7
+    100024: launcherfiring
+    100026: Track
+    100028: Wheel1
+    100030: Wheel2
+    100032: Wheel3
+    100034: Wheel4
+    100036: Wheels
+    400000: aabody
+    400002: aaMissleLauncher
+    400004: antiAirBody
+    400006: firingCasing
+    400008: firingHoles
+    400010: glassPane
+    400012: //RootNode
+    400014: launchercase
+    400016: launcherConnector1
+    400018: launcherConnector5
+    400020: launcherConnector6
+    400022: launcherConnector7
+    400024: launcherfiring
+    400026: Track
+    400028: Wheel1
+    400030: Wheel2
+    400032: Wheel3
+    400034: Wheel4
+    400036: Wheels
+    2300000: aabody
+    2300002: firingCasing
+    2300004: firingHoles
+    2300006: glassPane
+    2300008: launchercase
+    2300010: launcherConnector1
+    2300012: launcherConnector5
+    2300014: launcherConnector6
+    2300016: launcherConnector7
+    2300018: Track
+    2300020: Wheel1
+    2300022: Wheel2
+    2300024: Wheel3
+    2300026: Wheel4
+    3300000: aabody
+    3300002: firingCasing
+    3300004: firingHoles
+    3300006: glassPane
+    3300008: launchercase
+    3300010: launcherConnector1
+    3300012: launcherConnector5
+    3300014: launcherConnector6
+    3300016: launcherConnector7
+    3300018: Track
+    3300020: Wheel1
+    3300022: Wheel2
+    3300024: Wheel3
+    3300026: Wheel4
+    4300000: Wheel1
+    4300002: Wheel2
+    4300004: Wheel3
+    4300006: Wheel4
+    4300008: Track
+    4300010: launcherConnector7
+    4300012: launcherConnector1
+    4300014: launcherConnector6
+    4300016: launcherConnector5
+    4300018: launchercase
+    4300020: firingCasing
+    4300022: firingHoles
+    4300024: aabody
+    4300026: glassPane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

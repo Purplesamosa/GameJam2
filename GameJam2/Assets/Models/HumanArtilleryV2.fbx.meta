@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: f8589da5086450342b3cbd4f226b5f99
+timeCreated: 1454216805
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: artilleryBody
+    100002: firingPipe
+    100004: //RootNode
+    100006: pipeInside
+    100008: pipeOutside
+    100010: wheelBL
+    100012: wheelBR
+    100014: wheelFL
+    100016: wheelFR
+    100018: wheelIner
+    100020: wheeliner
+    100022: wheelInner
+    100024: wheelInner 1
+    100026: wheelOuter
+    100028: wheelOuter 1
+    100030: wheelOuter 2
+    100032: wheelOuter 3
+    100034: wheels
+    400000: artilleryBody
+    400002: firingPipe
+    400004: //RootNode
+    400006: pipeInside
+    400008: pipeOutside
+    400010: wheelBL
+    400012: wheelBR
+    400014: wheelFL
+    400016: wheelFR
+    400018: wheelIner
+    400020: wheeliner
+    400022: wheelInner
+    400024: wheelInner 1
+    400026: wheelOuter
+    400028: wheelOuter 1
+    400030: wheelOuter 2
+    400032: wheelOuter 3
+    400034: wheels
+    2300000: artilleryBody
+    2300002: pipeInside
+    2300004: pipeOutside
+    2300006: wheelIner
+    2300008: wheeliner
+    2300010: wheelInner
+    2300012: wheelInner 1
+    2300014: wheelOuter
+    2300016: wheelOuter 1
+    2300018: wheelOuter 2
+    2300020: wheelOuter 3
+    3300000: artilleryBody
+    3300002: pipeInside
+    3300004: pipeOutside
+    3300006: wheelIner
+    3300008: wheeliner
+    3300010: wheelInner
+    3300012: wheelInner 1
+    3300014: wheelOuter
+    3300016: wheelOuter 1
+    3300018: wheelOuter 2
+    3300020: wheelOuter 3
+    4300000: pipeOutside
+    4300002: pipeInside
+    4300004: artilleryBody
+    4300006: wheelInner
+    4300008: wheelOuter
+    4300010: wheeliner
+    4300012: wheelOuter
+    4300014: wheelInner
+    4300016: wheelOuter
+    4300018: wheelIner
+    4300020: wheelOuter
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
