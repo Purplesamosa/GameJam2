@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+//using UnityEngine.SceneManagement;
 
 namespace UnityStandardAssets._2D
 {
@@ -10,7 +10,7 @@ namespace UnityStandardAssets._2D
         {
             if (other.tag == "Player")
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+                //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
         }
     }
