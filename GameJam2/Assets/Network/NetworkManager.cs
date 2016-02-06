@@ -27,14 +27,16 @@ public class NetworkManager : MonoBehaviour
         if (PhotonNetwork.player.isMasterClient)
         {
             PhotonNetwork.player.SetCustomProperties(new ExitGames.Client.Photon.Hashtable() { { "Team", 0 } });
+            GameObject.FindObjectOfType<TeamManager>().SetTeam(CityTestScript.Team.Red);
         }
         else
         {
             TeamNum = 1;
             PhotonNetwork.player.SetCustomProperties(new ExitGames.Client.Photon.Hashtable() { { "Team", 1 } });
+            GameObject.FindObjectOfType<TeamManager>().SetTeam(CityTestScript.Team.Blue);
         }
 
-        PhotonNetwork.Instantiate(PlayerPrefabName, SpawnPoint[TeamNum].position, SpawnPoint[TeamNum].rotation, 0);
+        //PhotonNetwork.Instantiate(PlayerPrefabName, SpawnPoint[TeamNum].position, SpawnPoint[TeamNum].rotation, 0);
     }
 
     void OnPhotonRandomJoinFailed()
